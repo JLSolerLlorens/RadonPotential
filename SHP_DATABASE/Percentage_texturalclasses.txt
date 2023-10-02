@@ -1,0 +1,13 @@
+ID, Textural classes, %Sand, %Silt, %Clay
+1, Clay, 5, 5, 90 
+2, Clay Loam, 33, 34, 33 
+3, Loam, 42, 41, 17 
+4, Loamy Sand, 83, 12, 5 
+5, Sand, 90, 5, 5 
+6, Sandy Clay, 52, 7, 41 
+7, Sandy Clay Loam, 60, 12, 28 
+8, Sandy Loam, 65, 25, 10 
+9, Silt, 5, 90, 5 
+10, Silty Clay, 7, 47, 46 
+11, Silty Clay Loam, 10, 55, 35 
+12, Silty Loam, 22, 68, 10 

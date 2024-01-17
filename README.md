@@ -1,2 +1,2 @@
-# RadonRisk
-RadonRisk: A web-based interface for radon riskÊprediction under different climates and soil textures
+# RadonPotential
+RadonPotential: A web-based interface for radon potential prediction under different climates and soil textures
